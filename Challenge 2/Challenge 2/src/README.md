@@ -1,0 +1,1 @@
+A function created in the Variables class to calculate interest
